@@ -1,0 +1,346 @@
+{
+ "meta": {
+  "title": "دانشنامه‌ی تاریخ و ایران‌شناسی ایران",
+  "built": "۲۱ آبان ۱۴۰۵ / ۱۲ نوامبر ۲۰۲۶",
+  "sections": 36,
+  "groups": [
+   "راهنما و روش",
+   "گنجینه مخازن گیت‌هاب",
+   "ایران باستان — از ایلام تا اشکانی",
+   "ساسانیان؛ آخرین امپراتوری پیشااسلامی",
+   "ایران در دوره اسلامی میانه",
+   "ایران معاصر — از صفوی تا امروز",
+   "ایران‌شناسی و علوم وابسته",
+   "گنجینه نکات نغز"
+  ],
+  "total_words": 16635,
+  "max_words_per_section": 1000,
+  "split_howto": "هر بخش میان <!-- SECTION ... --> و <!-- /SECTION ... --> است؛ نسخه‌ی تکی هر بخش در sections/"
+ },
+ "sections": [
+  {
+   "id": "s001",
+   "n": 1,
+   "file": "sections/s001-intro-method.md",
+   "title": "درباره این مجموعه و روش استفاده",
+   "group": "راهنما و روش",
+   "group_key": "g0",
+   "words": 443
+  },
+  {
+   "id": "s002",
+   "n": 2,
+   "file": "sections/s002-map-of-history.md",
+   "title": "نقشه کلی: سیزده دوره تاریخ ایران در یک نگاه",
+   "group": "راهنما و روش",
+   "group_key": "g0",
+   "words": 548
+  },
+  {
+   "id": "s003",
+   "n": 3,
+   "file": "sections/s003-repo-overview-table.md",
+   "title": "نمای کلی ۲۱ مخزن تاریخ و ایران‌شناسی گیت‌هاب",
+   "group": "گنجینه مخازن گیت‌هاب",
+   "group_key": "g1",
+   "words": 582
+  },
+  {
+   "id": "s004",
+   "n": 4,
+   "file": "sections/s004-atlases-timelines.md",
+   "title": "اطلس‌ها و تایم‌لاین‌های تعاملی؛ تاریخ روی نقشه و صفحه",
+   "group": "گنجینه مخازن گیت‌هاب",
+   "group_key": "g1",
+   "words": 475
+  },
+  {
+   "id": "s005",
+   "n": 5,
+   "file": "sections/s005-text-projects.md",
+   "title": "پروژه‌های متنی و دانستنی؛ از کتاب جاده‌ی ابریشم تا بازی گنج کوروش",
+   "group": "گنجینه مخازن گیت‌هاب",
+   "group_key": "g1",
+   "words": 437
+  },
+  {
+   "id": "s006",
+   "n": 6,
+   "file": "sections/s006-digital-iranology.md",
+   "title": "ایران‌شناسی دیجیتال: کتیبه‌های میخی، اوستا، گات‌ها و شاهنامه",
+   "group": "گنجینه مخازن گیت‌هاب",
+   "group_key": "g1",
+   "words": 552
+  },
+  {
+   "id": "s007",
+   "n": 7,
+   "file": "sections/s007-calendars-licenses.md",
+   "title": "تقویم جلالی در دنیای نرم‌افزار؛ و مجوزهای قانونی این منابع",
+   "group": "گنجینه مخازن گیت‌هاب",
+   "group_key": "g1",
+   "words": 482
+  },
+  {
+   "id": "s008",
+   "n": 8,
+   "file": "sections/s008-prehistoric-bronze.md",
+   "title": "پیش‌تاریخ و تمدن‌های برنزی؛ شهر سوخته و جیرفت",
+   "group": "ایران باستان — از ایلام تا اشکانی",
+   "group_key": "g2",
+   "words": 438
+  },
+  {
+   "id": "s009",
+   "n": 9,
+   "file": "sections/s009-elam-chogha-zanbil.md",
+   "title": "ایلام؛ زبان بی‌خانواده و زیگوراتی که سرپا ماند",
+   "group": "ایران باستان — از ایلام تا اشکانی",
+   "group_key": "g2",
+   "words": 408
+  },
+  {
+   "id": "s010",
+   "n": 10,
+   "file": "sections/s010-medes-ecbatana.md",
+   "title": "ماد؛ نخستین دولت متحد ایرانی و هگمتانه",
+   "group": "ایران باستان — از ایلام تا اشکانی",
+   "group_key": "g2",
+   "words": 406
+  },
+  {
+   "id": "s011",
+   "n": 11,
+   "file": "sections/s011-achaemenid-cyrus.md",
+   "title": "هخامنشیان ۱ — کوروش بزرگ؛ از پاسارگاد تا بابل",
+   "group": "ایران باستان — از ایلام تا اشکانی",
+   "group_key": "g2",
+   "words": 467
+  },
+  {
+   "id": "s012",
+   "n": 12,
+   "file": "sections/s012-achaemenid-darius.md",
+   "title": "هخامنشیان ۲ — داریوش؛ بیستون، راه شاهی و سازمان امپراتوری",
+   "group": "ایران باستان — از ایلام تا اشکانی",
+   "group_key": "g2",
+   "words": 427
+  },
+  {
+   "id": "s013",
+   "n": 13,
+   "file": "sections/s013-persepolis-tablets.md",
+   "title": "تخت جمشید و الواح ایلامی؛ از هدایای ملت‌ها تا مزد مادران",
+   "group": "ایران باستان — از ایلام تا اشکانی",
+   "group_key": "g2",
+   "words": 438
+  },
+  {
+   "id": "s014",
+   "n": 14,
+   "file": "sections/s014-greece-alexander.md",
+   "title": "جنگ‌های ایران و یونان؛ سپس اسکندر و سلوکیان",
+   "group": "ایران باستان — از ایلام تا اشکانی",
+   "group_key": "g2",
+   "words": 442
+  },
+  {
+   "id": "s015",
+   "n": 15,
+   "file": "sections/s015-parthians-carrhae.md",
+   "title": "اشکانیان؛ کاره، تیر پارتی و پنج قرن رقیب روم",
+   "group": "ایران باستان — از ایلام تا اشکانی",
+   "group_key": "g2",
+   "words": 475
+  },
+  {
+   "id": "s016",
+   "n": 16,
+   "file": "sections/s016-sassanid-foundation.md",
+   "title": "بنیان ساسانیان؛ اردشیر و شاپور یکم در برابر روم",
+   "group": "ساسانیان؛ آخرین امپراتوری پیشااسلامی",
+   "group_key": "g3",
+   "words": 453
+  },
+  {
+   "id": "s017",
+   "n": 17,
+   "file": "sections/s017-sassanid-knowledge.md",
+   "title": "دانش ساسانی؛ جندی‌شاپور، شترنج و تاق کسری",
+   "group": "ساسانیان؛ آخرین امپراتوری پیشااسلامی",
+   "group_key": "g3",
+   "words": 452
+  },
+  {
+   "id": "s018",
+   "n": 18,
+   "file": "sections/s018-anushirvan-fall.md",
+   "title": "انوشیروان، زوال و سقوط؛ از عدل خسرو تا نهاوند",
+   "group": "ساسانیان؛ آخرین امپراتوری پیشااسلامی",
+   "group_key": "g3",
+   "words": 403
+  },
+  {
+   "id": "s019",
+   "n": 19,
+   "file": "sections/s019-tahirid-samanid.md",
+   "title": "طاهریان، صفاریان و سامانیان؛ تولد دوباره‌ی فارسی",
+   "group": "ایران در دوره اسلامی میانه",
+   "group_key": "g4",
+   "words": 425
+  },
+  {
+   "id": "s020",
+   "n": 20,
+   "file": "sections/s020-ghaznavid-seljuk.md",
+   "title": "غزنویان و سلجوقیان؛ تاریخ بیهقی و نظامیه",
+   "group": "ایران در دوره اسلامی میانه",
+   "group_key": "g4",
+   "words": 444
+  },
+  {
+   "id": "s021",
+   "n": 21,
+   "file": "sections/s021-khayyam-jalali.md",
+   "title": "خیام و تقویم جلالی؛ رصدخانه‌های مراغه و سمرقند",
+   "group": "ایران در دوره اسلامی میانه",
+   "group_key": "g4",
+   "words": 455
+  },
+  {
+   "id": "s022",
+   "n": 22,
+   "file": "sections/s022-mongol-timurid.md",
+   "title": "مغول، ایلخانان و تیموریان؛ ربع رشیدی و درخشش هرات",
+   "group": "ایران در دوره اسلامی میانه",
+   "group_key": "g4",
+   "words": 453
+  },
+  {
+   "id": "s023",
+   "n": 23,
+   "file": "sections/s023-safavid-isfahan.md",
+   "title": "صفویان؛ اسماعیل، چالدران، عباس بزرگ و اصفهان",
+   "group": "ایران معاصر — از صفوی تا امروز",
+   "group_key": "g5",
+   "words": 446
+  },
+  {
+   "id": "s024",
+   "n": 24,
+   "file": "sections/s024-nader-shah.md",
+   "title": "نادرشاه افشار؛ از خراسان تا کرنال و تخت طاووس",
+   "group": "ایران معاصر — از صفوی تا امروز",
+   "group_key": "g5",
+   "words": 547
+  },
+  {
+   "id": "s025",
+   "n": 25,
+   "file": "sections/s025-zand-karim-khan.md",
+   "title": "زندیه؛ کریم‌خان وکیل‌الرعایا",
+   "group": "ایران معاصر — از صفوی تا امروز",
+   "group_key": "g5",
+   "words": 358
+  },
+  {
+   "id": "s026",
+   "n": 26,
+   "file": "sections/s026-qajar-russia-wars.md",
+   "title": "قاجاریان؛ جنگ‌های ایران و روس و عهدنامه‌های گلستان و ترکمانچای",
+   "group": "ایران معاصر — از صفوی تا امروز",
+   "group_key": "g5",
+   "words": 464
+  },
+  {
+   "id": "s027",
+   "n": 27,
+   "file": "sections/s027-constitutional-era.md",
+   "title": "از چاپخانه تا مشروطه؛ میرزا صالح، دارالفنون، تنباکو و مجلس",
+   "group": "ایران معاصر — از صفوی تا امروز",
+   "group_key": "g5",
+   "words": 520
+  },
+  {
+   "id": "s028",
+   "n": 28,
+   "file": "sections/s028-pahlavi-today.md",
+   "title": "پهلوی تا امروز؛ نوسازی، نفت، کودتای ۱۳۳۲ و انقلاب ۱۳۵۷",
+   "group": "ایران معاصر — از صفوی تا امروز",
+   "group_key": "g5",
+   "words": 520
+  },
+  {
+   "id": "s029",
+   "n": 29,
+   "file": "sections/s029-iranology-iranica.md",
+   "title": "ایران‌شناسی چیست؟ ایرانیکا و بنیان‌های رشته",
+   "group": "ایران‌شناسی و علوم وابسته",
+   "group_key": "g6",
+   "words": 437
+  },
+  {
+   "id": "s030",
+   "n": 30,
+   "file": "sections/s030-calendar-systems.md",
+   "title": "گاه‌شماری ایرانی؛ از ماه‌های زردشتی تا الگوریتم‌های امروزی",
+   "group": "ایران‌شناسی و علوم وابسته",
+   "group_key": "g6",
+   "words": 421
+  },
+  {
+   "id": "s031",
+   "n": 31,
+   "file": "sections/s031-persian-language-shahnameh.md",
+   "title": "زبان فارسی؛ سه مرحله، شاهنامه و واژه‌های جهان‌گستر",
+   "group": "ایران‌شناسی و علوم وابسته",
+   "group_key": "g6",
+   "words": 441
+  },
+  {
+   "id": "s032",
+   "n": 32,
+   "file": "sections/s032-unesco-heritage.md",
+   "title": "میراث جهانی یونسکو؛ ۳۰ اثر ایران در یک فهرست",
+   "group": "ایران‌شناسی و علوم وابسته",
+   "group_key": "g6",
+   "words": 465
+  },
+  {
+   "id": "s033",
+   "n": 33,
+   "file": "sections/s033-intangible-museums.md",
+   "title": "میراث ناملموس و موزه‌ها؛ از نقالی تا ۹٬۰۹۳ شیء ایرانی در مت",
+   "group": "ایران‌شناسی و علوم وابسته",
+   "group_key": "g6",
+   "words": 437
+  },
+  {
+   "id": "s034",
+   "n": 34,
+   "file": "sections/s034-gems-military.md",
+   "title": "گنجینه نکات نغز — نظامی: شتران آتش‌زا، تیر پارتی و جاویدان‌ها",
+   "group": "گنجینه نکات نغز",
+   "group_key": "g7",
+   "words": 476
+  },
+  {
+   "id": "s035",
+   "n": 35,
+   "file": "sections/s035-gems-science-tech.md",
+   "title": "گنجینه نکات نغز — علم و فناوری: قنات، بادگیر، یخچال و OCR کتیبه‌ها",
+   "group": "گنجینه نکات نغز",
+   "group_key": "g7",
+   "words": 494
+  },
+  {
+   "id": "s036",
+   "n": 36,
+   "file": "sections/s036-gems-governance-culture.md",
+   "title": "گنجینه نکات نغز — حکمرانی و فرهنگ: از استوانه کوروش تا وکیل‌الرعایا",
+   "group": "گنجینه نکات نغز",
+   "group_key": "g7",
+   "words": 504
+  }
+ ]
+}
