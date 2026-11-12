@@ -1,0 +1,217 @@
+{
+  "meta": {
+    "title": "دانشنامه‌ی دانشمندان ایران — قدما و نوستاره‌ها",
+    "version": 1,
+    "built": "۲۲ آبان ۱۴۰۵ / ۱۳ نوامبر ۲۰۲۶",
+    "sections": 22,
+    "groups": [
+      "گروه ۰۱ — راهنما و نقشه",
+      "گروه ۰۲ — پیشگامان کهن",
+      "گروه ۰۳ — نوستاره‌ها",
+      "گروه ۰۴ — پرسش‌ها، سختی‌ها و منابع"
+    ],
+    "total_words": 8881,
+    "max_words_per_section": 1000,
+    "split_howto": "هر بخش میان <!-- SECTION ... --> و <!-- /SECTION ... --> است؛ نسخه‌ی تکی هر بخش در sections/"
+  },
+  "sections": [
+    {
+      "id": "sc001",
+      "n": 1,
+      "file": "sections/sc001-intro-method.md",
+      "title": "درباره این فایل و روش استفاده",
+      "group": "راهنما و نقشه",
+      "group_key": "g0",
+      "words": 404
+    },
+    {
+      "id": "sc002",
+      "n": 2,
+      "file": "sections/sc002-timeline.md",
+      "title": "نقشه زمانی: سیزده قرن دانش ایرانی در یک جدول",
+      "group": "راهنما و نقشه",
+      "group_key": "g0",
+      "words": 513
+    },
+    {
+      "id": "sc003",
+      "n": 3,
+      "file": "sections/sc003-jabir-ibn-hayyan.md",
+      "title": "جابر بن حیان (حدود ۷۲۱–۸۱۵)؛ کیمیا و نامی که به اروپا رسید",
+      "group": "پیشگامان کهن",
+      "group_key": "g1",
+      "words": 414
+    },
+    {
+      "id": "sc004",
+      "n": 4,
+      "file": "sections/sc004-al-khwarizmi.md",
+      "title": "محمد بن موسی خوارزمی (حدود ۷۸۰–۸۵۰)؛ پدر جبر و الگوریتم",
+      "group": "پیشگامان کهن",
+      "group_key": "g1",
+      "words": 400
+    },
+    {
+      "id": "sc005",
+      "n": 5,
+      "file": "sections/sc005-al-farabi.md",
+      "title": "ابونصر فارابی (حدود ۸۷۲–۹۵۰)؛ معلمِ ثانی",
+      "group": "پیشگامان کهن",
+      "group_key": "g1",
+      "words": 389
+    },
+    {
+      "id": "sc006",
+      "n": 6,
+      "file": "sections/sc006-al-razi.md",
+      "title": "زکریای رازی (حدود ۸۶۵–۹۲۵)؛ پزشک ری و کاشف الکل",
+      "group": "پیشگامان کهن",
+      "group_key": "g1",
+      "words": 424
+    },
+    {
+      "id": "sc007",
+      "n": 7,
+      "file": "sections/sc007-abul-wafa-buzjani.md",
+      "title": "ابوالوفا بوزجانی (۹۴۰–۹۹۸)؛ مثلثات را از نجوم جدا کرد",
+      "group": "پیشگامان کهن",
+      "group_key": "g1",
+      "words": 370
+    },
+    {
+      "id": "sc008",
+      "n": 8,
+      "file": "sections/sc008-ibn-sina.md",
+      "title": "ابوعلی سینا (۹۸۰–۱۰۳۷)؛ قانونی که شش قرن اروپا را درمان کرد",
+      "group": "پیشگامان کهن",
+      "group_key": "g1",
+      "words": 418
+    },
+    {
+      "id": "sc009",
+      "n": 9,
+      "file": "sections/sc009-al-biruni.md",
+      "title": "ابوریحان بیرونی (۹۷۳–۱۰۴۸)؛ مردی که زمین را با یک کوه اندازه گرفت",
+      "group": "پیشگامان کهن",
+      "group_key": "g1",
+      "words": 416
+    },
+    {
+      "id": "sc010",
+      "n": 10,
+      "file": "sections/sc010-omar-khayyam.md",
+      "title": "عمر خیام (۱۰۴۸–۱۱۳۱)؛ تقویم جلالی و رباعیات",
+      "group": "پیشگامان کهن",
+      "group_key": "g1",
+      "words": 364
+    },
+    {
+      "id": "sc011",
+      "n": 11,
+      "file": "sections/sc011-nasir-al-din-tusi.md",
+      "title": "خواجه نصیرالدین طوسی (۱۲۰۱–۱۲۷۴)؛ رصدخانه‌ی مراغه در دلِ هجوم مغول",
+      "group": "پیشگامان کهن",
+      "group_key": "g1",
+      "words": 386
+    },
+    {
+      "id": "sc012",
+      "n": 12,
+      "file": "sections/sc012-qutb-al-din-shirazi.md",
+      "title": "قطب‌الدین شیرازی (۱۲۳۶–۱۳۱۱)؛ رنگین‌کمان پیش از اروپا",
+      "group": "پیشگامان کهن",
+      "group_key": "g1",
+      "words": 404
+    },
+    {
+      "id": "sc013",
+      "n": 13,
+      "file": "sections/sc013-jamshid-al-kashi.md",
+      "title": "جمشید کاشانی (حدود ۱۳۸۰–۱۴۲۹)؛ رکورد صدوهشتادساله‌ی عدد پی",
+      "group": "پیشگامان کهن",
+      "group_key": "g1",
+      "words": 405
+    },
+    {
+      "id": "sc014",
+      "n": 14,
+      "file": "sections/sc014-mahmoud-hessabi.md",
+      "title": "محمود حسابی (۱۹۰۳–۱۹۹۲)؛ پدر فیزیک مدرن ایران",
+      "group": "نوستاره‌ها",
+      "group_key": "g2",
+      "words": 421
+    },
+    {
+      "id": "sc015",
+      "n": 15,
+      "file": "sections/sc015-lotfi-zadeh.md",
+      "title": "لطفی‌زاده (۱۹۲۱–۲۰۱۷)؛ منطق فازی و پیروزی بعد از طرد",
+      "group": "نوستاره‌ها",
+      "group_key": "g2",
+      "words": 366
+    },
+    {
+      "id": "sc016",
+      "n": 16,
+      "file": "sections/sc016-ali-javan.md",
+      "title": "علی جوان (۱۹۲۶–۲۰۱۶)؛ نخستین لیزرِ پیوسته‌ی گازی",
+      "group": "نوستاره‌ها",
+      "group_key": "g2",
+      "words": 350
+    },
+    {
+      "id": "sc017",
+      "n": 17,
+      "file": "sections/sc017-parviz-shahriari.md",
+      "title": "پرویز شهریاری (۱۹۲۶–۲۰۱۲)؛ پروفسورِ دبیرستان‌ها",
+      "group": "نوستاره‌ها",
+      "group_key": "g2",
+      "words": 349
+    },
+    {
+      "id": "sc018",
+      "n": 18,
+      "file": "sections/sc018-firouz-naderi.md",
+      "title": "فیروز نادری (۱۹۴۶–۲۰۲۳)؛ مردِ مریخ در ناسا",
+      "group": "نوستاره‌ها",
+      "group_key": "g2",
+      "words": 359
+    },
+    {
+      "id": "sc019",
+      "n": 19,
+      "file": "sections/sc019-maryam-mirzakhani.md",
+      "title": "مریم میرزاخانی (۱۹۷۷–۲۰۱۷)؛ نخستین زنِ مدال فیلدز",
+      "group": "نوستاره‌ها",
+      "group_key": "g2",
+      "words": 386
+    },
+    {
+      "id": "sc020",
+      "n": 20,
+      "file": "sections/sc020-three-famous-questions.md",
+      "title": "سه پرسش مشهور: الکل، شعاع زمین و لباس فراغت",
+      "group": "پرسش‌ها، سختی‌ها و منابع",
+      "group_key": "g3",
+      "words": 491
+    },
+    {
+      "id": "sc021",
+      "n": 21,
+      "file": "sections/sc021-common-patterns.md",
+      "title": "الگوهای مشترک: سختی‌ها و درس‌ها",
+      "group": "پرسش‌ها، سختی‌ها و منابع",
+      "group_key": "g3",
+      "words": 490
+    },
+    {
+      "id": "sc022",
+      "n": 22,
+      "file": "sections/sc022-sources.md",
+      "title": "منابع و راه‌های راستی‌آزمایی",
+      "group": "پرسش‌ها، سختی‌ها و منابع",
+      "group_key": "g3",
+      "words": 362
+    }
+  ]
+}
