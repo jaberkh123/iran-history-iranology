@@ -1,0 +1,331 @@
+{
+ "meta": {
+  "title": "دانشنامه‌ی فرهنگ، سنت‌ها و آیین‌های ایرانی",
+  "version": 1,
+  "built": "۲۱ آبان ۱۴۰۵ / ۱۲ نوامبر ۲۰۲۶",
+  "sections": 34,
+  "groups": [
+   "راهنما و نقشه",
+   "نوروز و بهار",
+   "شب‌های آتش و زمستان",
+   "آیین‌های مذهبی و عزاداری",
+   "چرخه‌ی زندگی؛ تولد، ازدواج، مرگ",
+   "هنرهای آیینی و ثبت‌های جهانی",
+   "سفره، چای و میهمان‌نوازی",
+   "آیین‌های اقوام",
+   "باورها و فال‌ها",
+   "یونسکو و جمع‌بندی"
+  ],
+  "total_words": 12137,
+  "max_words_per_section": 1000,
+  "split_howto": "هر بخش میان <!-- SECTION ... --> و <!-- /SECTION ... --> است؛ نسخه‌ی تکی هر بخش در sections/"
+ },
+ "sections": [
+  {
+   "id": "c001",
+   "n": 1,
+   "file": "sections/c001-intro-method.md",
+   "title": "درباره این مجموعه و روش استفاده",
+   "group": "راهنما و نقشه",
+   "group_key": "g0",
+   "words": 405
+  },
+  {
+   "id": "c002",
+   "n": 2,
+   "file": "sections/c002-year-map.md",
+   "title": "نقشه‌ی سال آیینی ایران؛ هر ماه چه جشنی است",
+   "group": "راهنما و نقشه",
+   "group_key": "g0",
+   "words": 393
+  },
+  {
+   "id": "c003",
+   "n": 3,
+   "file": "sections/c003-nowruz-origins.md",
+   "title": "نوروز؛ سرآغاز سال و ثبت جهانی",
+   "group": "نوروز و بهار",
+   "group_key": "g1",
+   "words": 419
+  },
+  {
+   "id": "c004",
+   "n": 4,
+   "file": "sections/c004-haft-sin.md",
+   "title": "هفت‌سین؛ هفت نماد و فلسفه‌ی هر سین",
+   "group": "نوروز و بهار",
+   "group_key": "g1",
+   "words": 379
+  },
+  {
+   "id": "c005",
+   "n": 5,
+   "file": "sections/c005-nowruz-customs.md",
+   "title": "سنت‌های نوروزی؛ از خانه‌تکانی تا نوروزخوانی",
+   "group": "نوروز و بهار",
+   "group_key": "g1",
+   "words": 347
+  },
+  {
+   "id": "c006",
+   "n": 6,
+   "file": "sections/c006-sizdah-bedar.md",
+   "title": "سیزده‌بدر؛ پایان جشن‌ها با طبیعت",
+   "group": "نوروز و بهار",
+   "group_key": "g1",
+   "words": 345
+  },
+  {
+   "id": "c007",
+   "n": 7,
+   "file": "sections/c007-amu-nowruz.md",
+   "title": "عمو نوروز و ننه سرما؛ افسانه‌های سال نو",
+   "group": "نوروز و بهار",
+   "group_key": "g1",
+   "words": 357
+  },
+  {
+   "id": "c008",
+   "n": 8,
+   "file": "sections/c008-chaharshanbe-suri.md",
+   "title": "چهارشنبه‌سوری؛ شب آتش، فال و قاشق‌زنی",
+   "group": "شب‌های آتش و زمستان",
+   "group_key": "g2",
+   "words": 362
+  },
+  {
+   "id": "c009",
+   "n": 9,
+   "file": "sections/c009-yalda.md",
+   "title": "شب یلدا؛ بلندترین شب و میز شاهانه",
+   "group": "شب‌های آتش و زمستان",
+   "group_key": "g2",
+   "words": 404
+  },
+  {
+   "id": "c010",
+   "n": 10,
+   "file": "sections/c010-sadeh.md",
+   "title": "جشن سده؛ بزرگ‌ترین جشن آتش و کشف آتش هوشنگ",
+   "group": "شب‌های آتش و زمستان",
+   "group_key": "g2",
+   "words": 351
+  },
+  {
+   "id": "c011",
+   "n": 11,
+   "file": "sections/c011-mehrgan-tirgan.md",
+   "title": "مهرگان و تیرگان؛ دو جشن بزرگ باستانی",
+   "group": "شب‌های آتش و زمستان",
+   "group_key": "g2",
+   "words": 401
+  },
+  {
+   "id": "c012",
+   "n": 12,
+   "file": "sections/c012-taziyeh.md",
+   "title": "تعزیه؛ تئاتر آیینی ایرانی",
+   "group": "آیین‌های مذهبی و عزاداری",
+   "group_key": "g3",
+   "words": 381
+  },
+  {
+   "id": "c013",
+   "n": 13,
+   "file": "sections/c013-muharram-nakhl.md",
+   "title": "آیین‌های محرم؛ از سینه‌زنی تا نخل‌گردانی",
+   "group": "آیین‌های مذهبی و عزاداری",
+   "group_key": "g3",
+   "words": 359
+  },
+  {
+   "id": "c014",
+   "n": 14,
+   "file": "sections/c014-arbaeen.md",
+   "title": "اربعین؛ بزرگ‌ترین پیاده‌روی سالانه جهان",
+   "group": "آیین‌های مذهبی و عزاداری",
+   "group_key": "g3",
+   "words": 366
+  },
+  {
+   "id": "c015",
+   "n": 15,
+   "file": "sections/c015-qalishuyan.md",
+   "title": "قالی‌شویان مشهد اردهال؛ آیینی که فرش می‌شوید",
+   "group": "آیین‌های مذهبی و عزاداری",
+   "group_key": "g3",
+   "words": 344
+  },
+  {
+   "id": "c016",
+   "n": 16,
+   "file": "sections/c016-ramadan-iftar.md",
+   "title": "رمضان و افطار ایرانی؛ ماه سفره‌ها",
+   "group": "آیین‌های مذهبی و عزاداری",
+   "group_key": "g3",
+   "words": 338
+  },
+  {
+   "id": "c017",
+   "n": 17,
+   "file": "sections/c017-birth-childhood.md",
+   "title": "آیین‌های تولد و کودکی؛ از عقیقه تا گهواره",
+   "group": "چرخه‌ی زندگی؛ تولد، ازدواج، مرگ",
+   "group_key": "g4",
+   "words": 331
+  },
+  {
+   "id": "c018",
+   "n": 18,
+   "file": "sections/c018-sofreh-aghd.md",
+   "title": "سفره عقد؛ آینه، شمع و نمادها",
+   "group": "چرخه‌ی زندگی؛ تولد، ازدواج، مرگ",
+   "group_key": "g4",
+   "words": 347
+  },
+  {
+   "id": "c019",
+   "n": 19,
+   "file": "sections/c019-shakar-pashi-henna.md",
+   "title": "شکرپاشی و حنابندان؛ شیرینیِ سرِ عروس",
+   "group": "چرخه‌ی زندگی؛ تولد، ازدواج، مرگ",
+   "group_key": "g4",
+   "words": 343
+  },
+  {
+   "id": "c020",
+   "n": 20,
+   "file": "sections/c020-mourning.md",
+   "title": "سوگواری ایرانی؛ خوان عام و چهلم",
+   "group": "چرخه‌ی زندگی؛ تولد، ازدواج، مرگ",
+   "group_key": "g4",
+   "words": 333
+  },
+  {
+   "id": "c021",
+   "n": 21,
+   "file": "sections/c021-zurkhaneh.md",
+   "title": "آیین پهلوانی و زورخانه؛ باشگاهِ جوانمردی",
+   "group": "هنرهای آیینی و ثبت‌های جهانی",
+   "group_key": "g5",
+   "words": 344
+  },
+  {
+   "id": "c022",
+   "n": 22,
+   "file": "sections/c022-naqqali-qahveh.md",
+   "title": "نقالی و قهوه‌خانه؛ تئاترِ مردم",
+   "group": "هنرهای آیینی و ثبت‌های جهانی",
+   "group_key": "g5",
+   "words": 320
+  },
+  {
+   "id": "c023",
+   "n": 23,
+   "file": "sections/c023-radif-bakhshi.md",
+   "title": "ردیف موسیقی و موسیقی بخشی خراسان",
+   "group": "هنرهای آیینی و ثبت‌های جهانی",
+   "group_key": "g5",
+   "words": 330
+  },
+  {
+   "id": "c024",
+   "n": 24,
+   "file": "sections/c024-carpet-pazyryk.md",
+   "title": "فرش ایرانی؛ از پازیریک تا ثبت‌های جهانی",
+   "group": "هنرهای آیینی و ثبت‌های جهانی",
+   "group_key": "g5",
+   "words": 345
+  },
+  {
+   "id": "c025",
+   "n": 25,
+   "file": "sections/c025-tezhib-ayeneh.md",
+   "title": "تذهیب و آیینه‌کاری؛ هنرِ نور و رنگ",
+   "group": "هنرهای آیینی و ثبت‌های جهانی",
+   "group_key": "g5",
+   "words": 334
+  },
+  {
+   "id": "c026",
+   "n": 26,
+   "file": "sections/c026-chogan-games.md",
+   "title": "چوگان و بازی‌های کهن؛ از میدان تا تخته‌نردِ شهر سوخته",
+   "group": "هنرهای آیینی و ثبت‌های جهانی",
+   "group_key": "g5",
+   "words": 347
+  },
+  {
+   "id": "c027",
+   "n": 27,
+   "file": "sections/c027-tea-kashef.md",
+   "title": "چای ایرانی؛ بذرِ در جوفِ عصا",
+   "group": "سفره، چای و میهمان‌نوازی",
+   "group_key": "g6",
+   "words": 336
+  },
+  {
+   "id": "c028",
+   "n": 28,
+   "file": "sections/c028-nazr-food.md",
+   "title": "نذر و آش‌های آیینی؛ سفره‌ای که با قصد پخته می‌شود",
+   "group": "سفره، چای و میهمان‌نوازی",
+   "group_key": "g6",
+   "words": 350
+  },
+  {
+   "id": "c029",
+   "n": 29,
+   "file": "sections/c029-qamsar-rosewater.md",
+   "title": "گلاب قمصر؛ از گل‌بهار تا کعبه",
+   "group": "سفره، چای و میهمان‌نوازی",
+   "group_key": "g6",
+   "words": 347
+  },
+  {
+   "id": "c030",
+   "n": 30,
+   "file": "sections/c030-ethnic-rituals.md",
+   "title": "آیین‌های اقوام ایرانی؛ تنوعِ زیرِ یک آسمان",
+   "group": "آیین‌های اقوام",
+   "group_key": "g7",
+   "words": 320
+  },
+  {
+   "id": "c031",
+   "n": 31,
+   "file": "sections/c031-fortune-divination.md",
+   "title": "فال‌ها؛ دیوانِ حافظ تا فالِ قهوه",
+   "group": "باورها و فال‌ها",
+   "group_key": "g8",
+   "words": 321
+  },
+  {
+   "id": "c032",
+   "n": 32,
+   "file": "sections/c032-evil-eye-esfand.md",
+   "title": "چشم‌زخم و اسفند؛ باورهای محافظتی",
+   "group": "باورها و فال‌ها",
+   "group_key": "g8",
+   "words": 319
+  },
+  {
+   "id": "c033",
+   "n": 33,
+   "file": "sections/c033-unesco-list.md",
+   "title": "فهرست کامل ثبت‌های ناملموس ایران در یونسکو",
+   "group": "یونسکو و جمع‌بندی",
+   "group_key": "g9",
+   "words": 450
+  },
+  {
+   "id": "c034",
+   "n": 34,
+   "file": "sections/c034-conclusion.md",
+   "title": "جمع‌بندی؛ الگوهای مشترکِ فرهنگ آیینی ایران",
+   "group": "یونسکو و جمع‌بندی",
+   "group_key": "g9",
+   "words": 369
+  }
+ ]
+}
