@@ -1,0 +1,217 @@
+{
+ "meta": {
+  "title": "دانشنامهٔ ایران پیشااسلام",
+  "version": 1,
+  "built": "۲۲ آبان ۱۴۰۵ / ۱۳ نوامبر ۲۰۲۶",
+  "sections": 20,
+  "groups": [
+   "راهنما و روش",
+   "نقشهٔ زمان",
+   "عصر مفرغ و ایلام",
+   "ماد",
+   "هخامنشیان",
+   "هخامنشیان و سلوکیان",
+   "اشکانیان",
+   "ساسانیان",
+   "فرهنگ و تمدن",
+   "مشاهیر",
+   "گنجینه و مرجع"
+  ],
+  "total_words": 9976,
+  "gems_marked": 51,
+  "max_words_per_section": 1000,
+  "coverage_note": "تاریخ، فرهنگ، جنگ‌ها، سلسله‌ها، پادشاهان و مشاهیر ایران پیشااسلام — از عصر مفرغ و ایلام تا ماد، هخامنشیان، سلوکیان، اشکانیان و ساسانیان",
+  "split_howto": "هر بخش میان <!-- SECTION ... --> و <!-- /SECTION ... --> است؛ نسخه‌ی تکی هر بخش در sections/",
+  "companion_files": [
+   "iran-history-iranology.md",
+   "iran-culture-traditions.md",
+   "iran-scientists.md",
+   "iran-sports.md",
+   "iran-literature.md",
+   "iran-cinema.md",
+   "iran-cities.md"
+  ]
+ },
+ "sections": [
+  {
+   "id": "pi001",
+   "n": 1,
+   "file": "sections/pi001-intro-method.md",
+   "title": "درباره این فایل و روش استفاده",
+   "group": "راهنما و روش",
+   "group_key": "g0",
+   "words": 380
+  },
+  {
+   "id": "pi002",
+   "n": 2,
+   "file": "sections/pi002-timeline.md",
+   "title": "نقشهٔ زمان: سه هزار سال پیشااسلام در یک نگاه",
+   "group": "نقشهٔ زمان",
+   "group_key": "g1",
+   "words": 419
+  },
+  {
+   "id": "pi003",
+   "n": 3,
+   "file": "sections/pi003-bronze-age.md",
+   "title": "هزارهٔ سوم پیش از میلاد؛ شهر سوخته، جیروفت و ایلامیانِ آغازین",
+   "group": "عصر مفرغ و ایلام",
+   "group_key": "g2",
+   "words": 402
+  },
+  {
+   "id": "pi004",
+   "n": 4,
+   "file": "sections/pi004-elam.md",
+   "title": "ایلام؛ پادشاهی «انشان و شوش» و زیگوراتی که سرپا ماند",
+   "group": "عصر مفرغ و ایلام",
+   "group_key": "g2",
+   "words": 439
+  },
+  {
+   "id": "pi005",
+   "n": 5,
+   "file": "sections/pi005-medes.md",
+   "title": "ایرانیان می‌آیند؛ ماد، هگمتانه و خورشیدگرفتگیِ ۵۸۵",
+   "group": "ماد",
+   "group_key": "g3",
+   "words": 391
+  },
+  {
+   "id": "pi006",
+   "n": 6,
+   "file": "sections/pi006-cyrus.md",
+   "title": "کوروش بزرگ؛ بنیان‌گذار امپراتوریِ چهار گوشهٔ جهان",
+   "group": "هخامنشیان",
+   "group_key": "g4",
+   "words": 442
+  },
+  {
+   "id": "pi007",
+   "n": 7,
+   "file": "sections/pi007-cambyses-darius.md",
+   "title": "کمبوجیه و داریوش؛ از مصر تا کوهِ بیستون",
+   "group": "هخامنشیان",
+   "group_key": "g4",
+   "words": 479
+  },
+  {
+   "id": "pi008",
+   "n": 8,
+   "file": "sections/pi008-persepolis.md",
+   "title": "تخت جمشید و زندگیِ اداریِ امپراتوری",
+   "group": "هخامنشیان",
+   "group_key": "g4",
+   "words": 419
+  },
+  {
+   "id": "pi009",
+   "n": 9,
+   "file": "sections/pi009-greco-persian.md",
+   "title": "خشایارشا و جنگ‌های ایران و یونان",
+   "group": "هخامنشیان",
+   "group_key": "g4",
+   "words": 493
+  },
+  {
+   "id": "pi010",
+   "n": 10,
+   "file": "sections/pi010-alexander.md",
+   "title": "اسکندر و سلوکیان؛ پایانِ هخامنشیان",
+   "group": "هخامنشیان و سلوکیان",
+   "group_key": "g5",
+   "words": 476
+  },
+  {
+   "id": "pi011",
+   "n": 11,
+   "file": "sections/pi011-parthians.md",
+   "title": "اشکانیان؛ پنج قرنِ رقیبِ روم",
+   "group": "اشکانیان",
+   "group_key": "g6",
+   "words": 529
+  },
+  {
+   "id": "pi012",
+   "n": 12,
+   "file": "sections/pi012-sasanian-founding.md",
+   "title": "اردشیر بابکان و شاپور یکم؛ بنیانِ ساسانیان",
+   "group": "ساسانیان",
+   "group_key": "g7",
+   "words": 465
+  },
+  {
+   "id": "pi013",
+   "n": 13,
+   "file": "sections/pi013-shapur2-bahram.md",
+   "title": "شاپور دوم و بهرام گور؛ ساسانیانِ جنگ‌زده",
+   "group": "ساسانیان",
+   "group_key": "g7",
+   "words": 557
+  },
+  {
+   "id": "pi014",
+   "n": 14,
+   "file": "sections/pi014-anushirvan-fall.md",
+   "title": "انوشیروان، خسرو پرویز و سقوط؛ اوج و افولِ ساسانیان",
+   "group": "ساسانیان",
+   "group_key": "g7",
+   "words": 619
+  },
+  {
+   "id": "pi015",
+   "n": 15,
+   "file": "sections/pi015-armies.md",
+   "title": "ارتش‌های ایرانِ باستان؛ از جاودان‌ها تا سوارانِ زره‌پوش",
+   "group": "فرهنگ و تمدن",
+   "group_key": "g8",
+   "words": 526
+  },
+  {
+   "id": "pi016",
+   "n": 16,
+   "file": "sections/pi016-religion-myth.md",
+   "title": "آیین و اسطوره؛ زردشت، اوستا و آتش",
+   "group": "فرهنگ و تمدن",
+   "group_key": "g8",
+   "words": 566
+  },
+  {
+   "id": "pi017",
+   "n": 17,
+   "file": "sections/pi017-language-science.md",
+   "title": "زبان، دانش و هنرِ زندگی",
+   "group": "فرهنگ و تمدن",
+   "group_key": "g8",
+   "words": 530
+  },
+  {
+   "id": "pi018",
+   "n": 18,
+   "file": "sections/pi018-famous-figures.md",
+   "title": "مشاهیرِ پیشااسلام؛ از کوروش تا باربُد",
+   "group": "مشاهیر",
+   "group_key": "g9",
+   "words": 514
+  },
+  {
+   "id": "pi019",
+   "n": 19,
+   "file": "sections/pi019-gems.md",
+   "title": "گنجینهٔ نکات نغزِ ایرانِ پیشااسلام",
+   "group": "گنجینه و مرجع",
+   "group_key": "g10",
+   "words": 712
+  },
+  {
+   "id": "pi020",
+   "n": 20,
+   "file": "sections/pi020-tables-sources.md",
+   "title": "جداول مرجع و منابعِ راستی‌آزمایی",
+   "group": "گنجینه و مرجع",
+   "group_key": "g10",
+   "words": 618
+  }
+ ]
+}
