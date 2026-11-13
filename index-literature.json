@@ -1,0 +1,218 @@
+{
+ "meta": {
+  "title": "دانشنامه‌ی ادبیات ایران",
+  "version": 1,
+  "built": "۲۲ آبان ۱۴۰۵ / ۱۳ نوامبر ۲۰۲۶",
+  "sections": 21,
+  "groups": [
+   "راهنما و روش",
+   "پیش از اسلام — اوستا و پهلوی",
+   "طلای کلاسیک — از رودکی تا فردوسی",
+   "ستاره‌های شعر کلاسیک — خیام تا حافظ",
+   "قالب‌ها، نثر و زنانِ کلاسیک",
+   "از جامی تا عصر نو",
+   "گنجینه و مرجع"
+  ],
+  "total_words": 9507,
+  "gems_marked": 36,
+  "max_words_per_section": 1000,
+  "coverage_note": "بخش‌های ۲ تا ۱۶ ادبیات کهن و کلاسیک؛ بخش‌های ۱۷ و ۱۸ ادبیات معاصر (سهمِ سبک‌تر بر پایه‌ی درخواست)",
+  "split_howto": "هر بخش میان <!-- SECTION ... --> و <!-- /SECTION ... --> است؛ نسخه‌ی تکی هر بخش در sections/",
+  "companion_files": [
+   "iran-history-iranology.md",
+   "iran-culture-traditions.md",
+   "iran-sports.md"
+  ]
+ },
+ "sections": [
+  {
+   "id": "lit001",
+   "n": 1,
+   "file": "sections/lit001-intro-method.md",
+   "title": "درباره این فایل و روش استفاده",
+   "group": "راهنما و روش",
+   "group_key": "g0",
+   "words": 454
+  },
+  {
+   "id": "lit002",
+   "n": 2,
+   "file": "sections/lit002-avesta.md",
+   "title": "اوستا؛ کهن‌ترین لایه‌ی ادبیات ایران",
+   "group": "پیش از اسلام — اوستا و پهلوی",
+   "group_key": "g1",
+   "words": 389
+  },
+  {
+   "id": "lit003",
+   "n": 3,
+   "file": "sections/lit003-pahlavi-literature.md",
+   "title": "ادبیات پهلوی؛ پشتوانه‌ی شاهنامه",
+   "group": "پیش از اسلام — اوستا و پهلوی",
+   "group_key": "g1",
+   "words": 359
+  },
+  {
+   "id": "lit004",
+   "n": 4,
+   "file": "sections/lit004-rudaki-samanids.md",
+   "title": "تولد شعر فارسی؛ دربار سامانی و رودکی",
+   "group": "طلای کلاسیک — از رودکی تا فردوسی",
+   "group_key": "g2",
+   "words": 393
+  },
+  {
+   "id": "lit005",
+   "n": 5,
+   "file": "sections/lit005-ferdowsi-shahnameh.md",
+   "title": "فردوسی و ساختنِ شاهنامه",
+   "group": "طلای کلاسیک — از رودکی تا فردوسی",
+   "group_key": "g2",
+   "words": 430
+  },
+  {
+   "id": "lit006",
+   "n": 6,
+   "file": "sections/lit006-shahnameh-world.md",
+   "title": "جهانِ شاهنامه؛ پهلوان‌ها و زنان",
+   "group": "طلای کلاسیک — از رودکی تا فردوسی",
+   "group_key": "g2",
+   "words": 350
+  },
+  {
+   "id": "lit007",
+   "n": 7,
+   "file": "sections/lit007-khayyam-rubaiyat.md",
+   "title": "خیام؛ دانشمندی که شاعرش پس از مرگ کشف کردند",
+   "group": "ستاره‌های شعر کلاسیک — خیام تا حافظ",
+   "group_key": "g3",
+   "words": 403
+  },
+  {
+   "id": "lit008",
+   "n": 8,
+   "file": "sections/lit008-sanai-attar.md",
+   "title": "سنایی و عطار؛ سرآغازِ شعرِ عرفانی",
+   "group": "ستاره‌های شعر کلاسیک — خیام تا حافظ",
+   "group_key": "g3",
+   "words": 359
+  },
+  {
+   "id": "lit009",
+   "n": 9,
+   "file": "sections/lit009-nizami-khamsa.md",
+   "title": "نظامی؛ پنج‌گنج و شیرین‌سخنی",
+   "group": "ستاره‌های شعر کلاسیک — خیام تا حافظ",
+   "group_key": "g3",
+   "words": 393
+  },
+  {
+   "id": "lit010",
+   "n": 10,
+   "file": "sections/lit010-rumi-masnavi.md",
+   "title": "مولانا؛ نی‌نامه و شبِ عروسی",
+   "group": "ستاره‌های شعر کلاسیک — خیام تا حافظ",
+   "group_key": "g3",
+   "words": 422
+  },
+  {
+   "id": "lit011",
+   "n": 11,
+   "file": "sections/lit011-saadi-golestan.md",
+   "title": "سعدی؛ گلستان و بوستان",
+   "group": "ستاره‌های شعر کلاسیک — خیام تا حافظ",
+   "group_key": "g3",
+   "words": 406
+  },
+  {
+   "id": "lit012",
+   "n": 12,
+   "file": "sections/lit012-hafez-ghazal.md",
+   "title": "حافظ؛ لسان‌الغیب و فالِ یلدا",
+   "group": "ستاره‌های شعر کلاسیک — خیام تا حافظ",
+   "group_key": "g3",
+   "words": 402
+  },
+  {
+   "id": "lit013",
+   "n": 13,
+   "file": "sections/lit013-forms-styles.md",
+   "title": "قالب‌ها و سبک‌ها؛ نقشه‌ی فنی شعر فارسی",
+   "group": "قالب‌ها، نثر و زنانِ کلاسیک",
+   "group_key": "g4",
+   "words": 425
+  },
+  {
+   "id": "lit014",
+   "n": 14,
+   "file": "sections/lit014-classical-prose.md",
+   "title": "نثرِ کلاسیک؛ از بلعمی تا جامع‌التواریخ",
+   "group": "قالب‌ها، نثر و زنانِ کلاسیک",
+   "group_key": "g4",
+   "words": 396
+  },
+  {
+   "id": "lit015",
+   "n": 15,
+   "file": "sections/lit015-women-classical.md",
+   "title": "زنان در ادبیات کلاسیک؛ از رابعه تا جهان‌ملک",
+   "group": "قالب‌ها، نثر و زنانِ کلاسیک",
+   "group_key": "g4",
+   "words": 453
+  },
+  {
+   "id": "lit016",
+   "n": 16,
+   "file": "sections/lit016-jami-indian-style.md",
+   "title": "پس از کلاسیک‌ها؛ جامی، سبکِ هندی و بازگشتِ ادبی",
+   "group": "از جامی تا عصر نو",
+   "group_key": "g5",
+   "words": 412
+  },
+  {
+   "id": "lit017",
+   "n": 17,
+   "file": "sections/lit017-modern-poetry-nima.md",
+   "title": "شعرِ نو؛ از نیما تا فروغ",
+   "group": "از جامی تا عصر نو",
+   "group_key": "g5",
+   "words": 470
+  },
+  {
+   "id": "lit018",
+   "n": 18,
+   "file": "sections/lit018-contemporary-prose-global.md",
+   "title": "معاصران و نثرِ امروز؛ از شاملو تا بوکر",
+   "group": "از جامی تا عصر نو",
+   "group_key": "g5",
+   "words": 492
+  },
+  {
+   "id": "lit019",
+   "n": 19,
+   "file": "sections/lit019-gems-literature.md",
+   "title": "گنجینه‌ی نکات نغز — ادبیات",
+   "group": "گنجینه و مرجع",
+   "group_key": "g6",
+   "words": 811
+  },
+  {
+   "id": "lit020",
+   "n": 20,
+   "file": "sections/lit020-reference-tables.md",
+   "title": "جداول مرجع؛ ادبیات ایران در یک نگاه",
+   "group": "گنجینه و مرجع",
+   "group_key": "g6",
+   "words": 870
+  },
+  {
+   "id": "lit021",
+   "n": 21,
+   "file": "sections/lit021-sources.md",
+   "title": "منابع و راهنمای راستی‌آزمایی",
+   "group": "گنجینه و مرجع",
+   "group_key": "g6",
+   "words": 418
+  }
+ ]
+}
