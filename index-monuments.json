@@ -1,0 +1,299 @@
+{
+ "meta": {
+  "title": "دانشنامهٔ آثار باستانی ایران",
+  "version": 1,
+  "built": "۲۲ آبان ۱۴۰۵ / ۱۳ نوامبر ۲۰۲۶",
+  "sections": 29,
+  "groups": [
+   "راهنما و روش",
+   "نقشهٔ آثار",
+   "ایلام و عصر مفرغ",
+   "هخامنشیان",
+   "ماد و ساسانیان",
+   "اسلامی — مرکز و غرب",
+   "اسلامی — شمال‌غرب",
+   "شمال‌شرق و برج‌ها",
+   "کویر، آب و زندگی",
+   "قاجار و موجِ جدید",
+   "گنجینه و مرجع"
+  ],
+  "total_words": 10764,
+  "gems_marked": 81,
+  "max_words_per_section": 1000,
+  "coverage_note": "آثار باستانی ایران — دوره، شهر، ابعاد، کشف‌ها و نکات نغز — ۲۸ ثبت فرهنگی یونسکو (از ۱۹۷۹ تا ۲۰۲۶) + آثار برجستهٔ بیرون فهرست",
+  "split_howto": "هر بخش میان <!-- SECTION ... --> و <!-- /SECTION ... --> است؛ نسخه‌ی تکی هر بخش در sections/",
+  "companion_files": [
+   "iran-history-iranology.md",
+   "iran-culture-traditions.md",
+   "iran-scientists.md",
+   "iran-sports.md",
+   "iran-literature.md",
+   "iran-cinema.md",
+   "iran-cities.md",
+   "iran-preislam.md"
+  ]
+ },
+ "sections": [
+  {
+   "id": "mn001",
+   "n": 1,
+   "file": "sections/mn001-intro-method.md",
+   "title": "دربارهٔ این فایل و روش استفاده",
+   "group": "راهنما و روش",
+   "group_key": "g0",
+   "words": 406
+  },
+  {
+   "id": "mn002",
+   "n": 2,
+   "file": "sections/mn002-map-unesco.md",
+   "title": "نقشهٔ آثار؛ سی ثبت یونسکو و سه هزار سال بر روی یک برگ",
+   "group": "نقشهٔ آثار",
+   "group_key": "g1",
+   "words": 487
+  },
+  {
+   "id": "mn003",
+   "n": 3,
+   "file": "sections/mn003-chogha-zanbil.md",
+   "title": "چغازنبیل؛ زیگوراتِ نیمه‌تمامِ پادشاهی ایلام",
+   "group": "ایلام و عصر مفرغ",
+   "group_key": "g2",
+   "words": 408
+  },
+  {
+   "id": "mn004",
+   "n": 4,
+   "file": "sections/mn004-susa.md",
+   "title": "شوش؛ کهن‌ترین پایتختِ پیوستهٔ ایران",
+   "group": "ایلام و عصر مفرغ",
+   "group_key": "g2",
+   "words": 339
+  },
+  {
+   "id": "mn005",
+   "n": 5,
+   "file": "sections/mn005-shahr-sokhta-jiroft.md",
+   "title": "شهر سوخته و جیروفت؛ دو پرسشِ بزرگِ عصر مفرغ",
+   "group": "ایلام و عصر مفرغ",
+   "group_key": "g2",
+   "words": 375
+  },
+  {
+   "id": "mn006",
+   "n": 6,
+   "file": "sections/mn006-persepolis.md",
+   "title": "تخت جمشید؛ کاخِ آیینیِ هخامنشیان در دلِ کوهِ رحمت",
+   "group": "هخامنشیان",
+   "group_key": "g3",
+   "words": 351
+  },
+  {
+   "id": "mn007",
+   "n": 7,
+   "file": "sections/mn007-pasargadae.md",
+   "title": "پاسارگاد؛ آرامگاهِ کوروش و نخستین چارباغِ جهان",
+   "group": "هخامنشیان",
+   "group_key": "g3",
+   "words": 277
+  },
+  {
+   "id": "mn008",
+   "n": 8,
+   "file": "sections/mn008-naqsh-rostam.md",
+   "title": "نقش رستم و نقش رجب؛ گورستانِ شاهان در دلِ کوه",
+   "group": "هخامنشیان",
+   "group_key": "g3",
+   "words": 351
+  },
+  {
+   "id": "mn009",
+   "n": 9,
+   "file": "sections/mn009-bisotun.md",
+   "title": "بیستون؛ سنگ‌نوشته‌ای که رمزِ خطِ میخی را گشود",
+   "group": "هخامنشیان",
+   "group_key": "g3",
+   "words": 323
+  },
+  {
+   "id": "mn010",
+   "n": 10,
+   "file": "sections/mn010-hegmataneh.md",
+   "title": "هگمتانه؛ پایتختِ ماد و آخرین ثبتِ بزرگِ ۲۰۲۴",
+   "group": "ماد و ساسانیان",
+   "group_key": "g4",
+   "words": 339
+  },
+  {
+   "id": "mn011",
+   "n": 11,
+   "file": "sections/mn011-sassanid-fars.md",
+   "title": "منظرهٔ باستان‌شناسیِ ساسانیِ فارس؛ فیروزآباد، بیشاپور و سروستان",
+   "group": "ماد و ساسانیان",
+   "group_key": "g4",
+   "words": 340
+  },
+  {
+   "id": "mn012",
+   "n": 12,
+   "file": "sections/mn012-takht-soleyman.md",
+   "title": "تخت سلیمان؛ جایی که آتشِ مقدس و آبِ جوشان یک‌جا نشستند",
+   "group": "ماد و ساسانیان",
+   "group_key": "g4",
+   "words": 306
+  },
+  {
+   "id": "mn013",
+   "n": 13,
+   "file": "sections/mn013-taq-bostan-anahita.md",
+   "title": "طاق بستان و معبد آناهیتا؛ سنگِ آخرین روزهای ساسانی",
+   "group": "ماد و ساسانیان",
+   "group_key": "g4",
+   "words": 339
+  },
+  {
+   "id": "mn014",
+   "n": 14,
+   "file": "sections/mn014-naqsh-jahan.md",
+   "title": "میدان نقش جهان؛ بزرگ‌ترین ایدهٔ شهریِ صفوی",
+   "group": "اسلامی — مرکز و غرب",
+   "group_key": "g5",
+   "words": 349
+  },
+  {
+   "id": "mn015",
+   "n": 15,
+   "file": "sections/mn015-masjed-jame-isfahan.md",
+   "title": "مسجد جامع اصفهان و پل‌های زاینده‌رود؛ هزار سالِ طاق و آب",
+   "group": "اسلامی — مرکز و غرب",
+   "group_key": "g5",
+   "words": 334
+  },
+  {
+   "id": "mn016",
+   "n": 16,
+   "file": "sections/mn016-soltaniyeh.md",
+   "title": "سلطانیه؛ گنبدی که مورخانِ هنر «پیش‌درآمدِ تاج‌مهل» خواندند",
+   "group": "اسلامی — مرکز و غرب",
+   "group_key": "g5",
+   "words": 308
+  },
+  {
+   "id": "mn017",
+   "n": 17,
+   "file": "sections/mn017-tabriz-bazaar.md",
+   "title": "بازار تبریز؛ شهری زیرِ طاق‌های آجری",
+   "group": "اسلامی — شمال‌غرب",
+   "group_key": "g6",
+   "words": 278
+  },
+  {
+   "id": "mn018",
+   "n": 18,
+   "file": "sections/mn018-sheikh-safi.md",
+   "title": "مجموعهٔ شیخ صفی اردبیل؛ خانقاهی به وسعتِ یک شهر",
+   "group": "اسلامی — شمال‌غرب",
+   "group_key": "g6",
+   "words": 312
+  },
+  {
+   "id": "mn019",
+   "n": 19,
+   "file": "sections/mn019-armenian-monasteries.md",
+   "title": "کلیساهای ارمنیِ ایران؛ قره‌کلیسا، استفانوس و دزوردزور",
+   "group": "اسلامی — شمال‌غرب",
+   "group_key": "g6",
+   "words": 322
+  },
+  {
+   "id": "mn020",
+   "n": 20,
+   "file": "sections/mn020-gonbad-qabus.md",
+   "title": "گنبد قابوس؛ بلندترین برجِ آجریِ هزار ساله",
+   "group": "شمال‌شرق و برج‌ها",
+   "group_key": "g7",
+   "words": 298
+  },
+  {
+   "id": "mn021",
+   "n": 21,
+   "file": "sections/mn021-bam.md",
+   "title": "ارگ بم؛ بزرگ‌ترین بنای خشتیِ جهان",
+   "group": "کویر، آب و زندگی",
+   "group_key": "g8",
+   "words": 324
+  },
+  {
+   "id": "mn022",
+   "n": 22,
+   "file": "sections/mn022-shushtar.md",
+   "title": "سامانهٔ آبیِ تاریخیِ شوشتر؛ مهندسیِ آب در بسترِ کارون",
+   "group": "کویر، آب و زندگی",
+   "group_key": "g8",
+   "words": 337
+  },
+  {
+   "id": "mn023",
+   "n": 23,
+   "file": "sections/mn023-persian-garden.md",
+   "title": "باغِ ایرانی؛ از چارباغِ پاسارگاد تا نُه باغِ یونسکو",
+   "group": "کویر، آب و زندگی",
+   "group_key": "g8",
+   "words": 345
+  },
+  {
+   "id": "mn024",
+   "n": 24,
+   "file": "sections/mn024-qanat-yazd.md",
+   "title": "قناتِ ایرانی و شهرِ تاریخیِ یزد؛ دانشِ آب در دلِ کویر",
+   "group": "کویر، آب و زندگی",
+   "group_key": "g8",
+   "words": 331
+  },
+  {
+   "id": "mn025",
+   "n": 25,
+   "file": "sections/mn025-maymand-kandovan.md",
+   "title": "میمند و کندوان؛ زندگی در دلِ سنگ",
+   "group": "کویر، آب و زندگی",
+   "group_key": "g8",
+   "words": 299
+  },
+  {
+   "id": "mn026",
+   "n": 26,
+   "file": "sections/mn026-golestan-palace.md",
+   "title": "کاخ گلستان؛ قاجارِ تهرانی و پیوندِ شرق و غرب",
+   "group": "قاجار و موجِ جدید",
+   "group_key": "g9",
+   "words": 311
+  },
+  {
+   "id": "mn027",
+   "n": 27,
+   "file": "sections/mn027-new-registrations.md",
+   "title": "موجِ تازهٔ ثبت‌ها؛ کاروانسرا، راه‌آهن، هورامان، خرم‌آباد و الموت",
+   "group": "قاجار و موجِ جدید",
+   "group_key": "g9",
+   "words": 377
+  },
+  {
+   "id": "mn028",
+   "n": 28,
+   "file": "sections/mn028-gems.md",
+   "title": "گنجینهٔ نکات نغزِ آثارِ باستانیِ ایران",
+   "group": "گنجینه و مرجع",
+   "group_key": "g10",
+   "words": 815
+  },
+  {
+   "id": "mn029",
+   "n": 29,
+   "file": "sections/mn029-tables-sources.md",
+   "title": "جداولِ مرجع و منابعِ راستی‌آزمایی",
+   "group": "گنجینه و مرجع",
+   "group_key": "g10",
+   "words": 783
+  }
+ ]
+}
