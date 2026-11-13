@@ -1,0 +1,206 @@
+{
+ "meta": {
+  "title": "دانشنامهٔ شهرهای ایران",
+  "version": 1,
+  "built": "۲۲ آبان ۱۴۰۵ / ۱۳ نوامبر ۲۰۲۶",
+  "sections": 19,
+  "groups": [
+   "راهنما و روش",
+   "نقشه و تاریخ شهرنشینی",
+   "پایتخت و کلان‌شهرها",
+   "کویر مرکزی",
+   "غرب و شمال‌غرب",
+   "شمال سبز",
+   "جنوب و خلیج فارس",
+   "شرق کویری",
+   "مرکز و البرز",
+   "گنجینه و مرجع"
+  ],
+  "total_words": 9930,
+  "gems_marked": 61,
+  "max_words_per_section": 1000,
+  "coverage_note": "طبیعت، آثار تاریخی و فرهنگی، تاریخ و نکته‌های نغز شهرهای ایران — از تهران و کلان‌شهرها تا شهرهای کویری، کوهستانی و بندری — با ثبت‌های تازهٔ یونسکو و روستاهای جهانی‌شده",
+  "split_howto": "هر بخش میان <!-- SECTION ... --> و <!-- /SECTION ... --> است؛ نسخه‌ی تکی هر بخش در sections/",
+  "companion_files": [
+   "iran-history-iranology.md",
+   "iran-culture-traditions.md",
+   "iran-scientists.md",
+   "iran-sports.md",
+   "iran-literature.md",
+   "iran-cinema.md"
+  ]
+ },
+ "sections": [
+  {
+   "id": "sh001",
+   "n": 1,
+   "file": "sections/sh001-intro-method.md",
+   "title": "درباره این فایل و روش استفاده",
+   "group": "راهنما و روش",
+   "group_key": "g0",
+   "words": 585
+  },
+  {
+   "id": "sh002",
+   "n": 2,
+   "file": "sections/sh002-urban-history.md",
+   "title": "نقشهٔ شهرها؛ شش‌هزار سال ساختن شهر بر فلات",
+   "group": "نقشه و تاریخ شهرنشینی",
+   "group_key": "g1",
+   "words": 675
+  },
+  {
+   "id": "sh003",
+   "n": 3,
+   "file": "sections/sh003-tehran.md",
+   "title": "تهران؛ پایتختی که روبروی دماوند بیدار می‌شود",
+   "group": "پایتخت و کلان‌شهرها",
+   "group_key": "g2",
+   "words": 533
+  },
+  {
+   "id": "sh004",
+   "n": 4,
+   "file": "sections/sh004-isfahan.md",
+   "title": "اصفهان؛ نصف جهان",
+   "group": "پایتخت و کلان‌شهرها",
+   "group_key": "g2",
+   "words": 513
+  },
+  {
+   "id": "sh005",
+   "n": 5,
+   "file": "sections/sh005-shiraz.md",
+   "title": "شیراز؛ شهر شعر و باغ‌ها",
+   "group": "پایتخت و کلان‌شهرها",
+   "group_key": "g2",
+   "words": 491
+  },
+  {
+   "id": "sh006",
+   "n": 6,
+   "file": "sections/sh006-tabriz.md",
+   "title": "تبریز؛ شهر اولین‌ها و بزرگ‌ترین بازار جهان",
+   "group": "پایتخت و کلان‌شهرها",
+   "group_key": "g2",
+   "words": 488
+  },
+  {
+   "id": "sh007",
+   "n": 7,
+   "file": "sections/sh007-mashhad.md",
+   "title": "مشهد؛ قلب زیارت ایران و دروازهٔ خراسان",
+   "group": "پایتخت و کلان‌شهرها",
+   "group_key": "g2",
+   "words": 485
+  },
+  {
+   "id": "sh008",
+   "n": 8,
+   "file": "sections/sh008-yazd.md",
+   "title": "یزد؛ شهر بادگیرها و قنات‌ها",
+   "group": "کویر مرکزی",
+   "group_key": "g3",
+   "words": 469
+  },
+  {
+   "id": "sh009",
+   "n": 9,
+   "file": "sections/sh009-kashan.md",
+   "title": "کاشان؛ قلب کویر مرکزی و خانه‌های قاجاری",
+   "group": "کویر مرکزی",
+   "group_key": "g3",
+   "words": 457
+  },
+  {
+   "id": "sh010",
+   "n": 10,
+   "file": "sections/sh010-hamadan.md",
+   "title": "همدان؛ مادر شهرهای ایران",
+   "group": "غرب و شمال‌غرب",
+   "group_key": "g4",
+   "words": 431
+  },
+  {
+   "id": "sh011",
+   "n": 11,
+   "file": "sections/sh011-azerbaijan.md",
+   "title": "اردبیل، زنجان و ارومیه؛ سه‌گانهٔ شمال‌غرب",
+   "group": "غرب و شمال‌غرب",
+   "group_key": "g4",
+   "words": 464
+  },
+  {
+   "id": "sh012",
+   "n": 12,
+   "file": "sections/sh012-west.md",
+   "title": "کرمانشاه، سنندج و خرم‌آباد؛ سه پایتختِ غرب کوهستانی",
+   "group": "غرب و شمال‌غرب",
+   "group_key": "g4",
+   "words": 462
+  },
+  {
+   "id": "sh013",
+   "n": 13,
+   "file": "sections/sh013-north.md",
+   "title": "رشت و ساحل خزر؛ شمال سبز",
+   "group": "شمال سبز",
+   "group_key": "g5",
+   "words": 468
+  },
+  {
+   "id": "sh014",
+   "n": 14,
+   "file": "sections/sh014-south.md",
+   "title": "اهواز، شوش و بندرها؛ جنوب و خلیج فارس",
+   "group": "جنوب و خلیج فارس",
+   "group_key": "g6",
+   "words": 429
+  },
+  {
+   "id": "sh015",
+   "n": 15,
+   "file": "sections/sh015-east.md",
+   "title": "کرمان و سیستان؛ شرق کویری و رکوردهای گرما",
+   "group": "شرق کویری",
+   "group_key": "g7",
+   "words": 480
+  },
+  {
+   "id": "sh016",
+   "n": 16,
+   "file": "sections/sh016-center.md",
+   "title": "قزوین، قم و دامنهٔ دماوند؛ مرکز و البرز",
+   "group": "مرکز و البرز",
+   "group_key": "g8",
+   "words": 425
+  },
+  {
+   "id": "sh017",
+   "n": 17,
+   "file": "sections/sh017-gems.md",
+   "title": "گنجینهٔ نکات نغز شهرهای ایران",
+   "group": "گنجینه و مرجع",
+   "group_key": "g9",
+   "words": 963
+  },
+  {
+   "id": "sh018",
+   "n": 18,
+   "file": "sections/sh018-tables.md",
+   "title": "جداول مرجع؛ شهرهای ایران در یک نگاه",
+   "group": "گنجینه و مرجع",
+   "group_key": "g9",
+   "words": 704
+  },
+  {
+   "id": "sh019",
+   "n": 19,
+   "file": "sections/sh019-sources.md",
+   "title": "منابع و راهنمای راستی‌آزمایی",
+   "group": "گنجینه و مرجع",
+   "group_key": "g9",
+   "words": 408
+  }
+ ]
+}
