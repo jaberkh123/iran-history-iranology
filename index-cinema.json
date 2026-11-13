@@ -1,0 +1,239 @@
+{
+ "meta": {
+  "title": "دانشنامه‌ی سینما و تلویزیون ایران",
+  "version": 2,
+  "built": "۲۲ آبان ۱۴۰۵ / ۱۳ نوامبر ۲۰۲۶",
+  "sections": 23,
+  "groups": [
+   "راهنما و روش",
+   "آغازها و تاریخ سینما",
+   "استادان و افتخارها",
+   "تلویزیون و سریال‌ها",
+   "دیالوگ‌ها، جوایز و رکوردها",
+   "ستاره‌ها و سلبریتی‌ها",
+   "صنعت و پشت‌صحنه",
+   "گنجینه و مرجع"
+  ],
+  "total_words": 13588,
+  "gems_marked": 99,
+  "max_words_per_section": 1000,
+  "coverage_note": "تاریخ و آغازهای سینما، استادان و افتخارهای جهانی، تلویزیون و سریال‌ها، دیالوگ‌های ماندگار، رکوردهای فروش، ستاره‌ها و سلبریتی‌های کلاسیک و امروز، دوبله، صنعت و اقتصادِ سینما، حوادث و اتفاقات، چهره‌های تلویزیون و گنجینه‌ی نکات نغز",
+  "split_howto": "هر بخش میان <!-- SECTION ... --> و <!-- /SECTION ... --> است؛ نسخه‌ی تکی هر بخش در sections/",
+  "companion_files": [
+   "iran-history-iranology.md",
+   "iran-culture-traditions.md",
+   "iran-scientists.md",
+   "iran-sports.md",
+   "iran-literature.md"
+  ]
+ },
+ "sections": [
+  {
+   "id": "cin001",
+   "n": 1,
+   "file": "sections/cin001-intro-method.md",
+   "title": "درباره این فایل و روش استفاده",
+   "group": "راهنما و روش",
+   "group_key": "g0",
+   "words": 576
+  },
+  {
+   "id": "cin002",
+   "n": 2,
+   "file": "sections/cin002-origins.md",
+   "title": "آغازها؛ از آکاس‌باشی تا آبی و رابی و دختر لر",
+   "group": "آغازها و تاریخ سینما",
+   "group_key": "g1",
+   "words": 634
+  },
+  {
+   "id": "cin003",
+   "n": 3,
+   "file": "sections/cin003-filmfarsi.md",
+   "title": "دهه‌های ساختن؛ فیلمفارسی و پیشگامان هنری",
+   "group": "آغازها و تاریخ سینما",
+   "group_key": "g1",
+   "words": 637
+  },
+  {
+   "id": "cin004",
+   "n": 4,
+   "file": "sections/cin004-new-wave.md",
+   "title": "موج نو؛ سالی که گاو و قیصر آمدند",
+   "group": "آغازها و تاریخ سینما",
+   "group_key": "g1",
+   "words": 605
+  },
+  {
+   "id": "cin005",
+   "n": 5,
+   "file": "sections/cin005-post-rev.md",
+   "title": "انقلاب و بازسازی؛ سینمای دههٔ ۱۳۶۰",
+   "group": "استادان و افتخارها",
+   "group_key": "g2",
+   "words": 585
+  },
+  {
+   "id": "cin006",
+   "n": 6,
+   "file": "sections/cin006-kiarostami.md",
+   "title": "عباس کیارستمی؛ شاگردِ کوچه‌ها و قلهٔ کن",
+   "group": "استادان و افتخارها",
+   "group_key": "g2",
+   "words": 559
+  },
+  {
+   "id": "cin007",
+   "n": 7,
+   "file": "sections/cin007-makhmalbaf-panahi.md",
+   "title": "مخملباف‌ها و جعفر پناهی؛ سینمای مرزها",
+   "group": "استادان و افتخارها",
+   "group_key": "g2",
+   "words": 597
+  },
+  {
+   "id": "cin008",
+   "n": 8,
+   "file": "sections/cin008-farhadi.md",
+   "title": "اصغر فرهادی؛ دو اسکار و قهرمانِ برلین",
+   "group": "استادان و افتخارها",
+   "group_key": "g2",
+   "words": 542
+  },
+  {
+   "id": "cin009",
+   "n": 9,
+   "file": "sections/cin009-actors.md",
+   "title": "بازیگران؛ از آقای بازیگر تا نسل تازه",
+   "group": "استادان و افتخارها",
+   "group_key": "g2",
+   "words": 549
+  },
+  {
+   "id": "cin010",
+   "n": 10,
+   "file": "sections/cin010-tv-history.md",
+   "title": "تلویزیون ایران؛ از تاجرِ سیگار تا سیمای ملی",
+   "group": "تلویزیون و سریال‌ها",
+   "group_key": "g3",
+   "words": 520
+  },
+  {
+   "id": "cin011",
+   "n": 11,
+   "file": "sections/cin011-series.md",
+   "title": "سریال‌های طلایی؛ از یوسف پیامبر تا پایتخت",
+   "group": "تلویزیون و سریال‌ها",
+   "group_key": "g3",
+   "words": 569
+  },
+  {
+   "id": "cin012",
+   "n": 12,
+   "file": "sections/cin012-kolah-ghermezi.md",
+   "title": "کلاه‌قرمزی و سرزمینِ کودک",
+   "group": "تلویزیون و سریال‌ها",
+   "group_key": "g3",
+   "words": 578
+  },
+  {
+   "id": "cin013",
+   "n": 13,
+   "file": "sections/cin013-dialogues.md",
+   "title": "دیالوگ‌های ماندگار؛ حرف‌هایی که از پرده بیرون آمدند",
+   "group": "دیالوگ‌ها، جوایز و رکوردها",
+   "group_key": "g4",
+   "words": 543
+  },
+  {
+   "id": "cin014",
+   "n": 14,
+   "file": "sections/cin014-awards-records.md",
+   "title": "جشنواره‌ها، جوایز و رکوردهای فروش",
+   "group": "دیالوگ‌ها، جوایز و رکوردها",
+   "group_key": "g4",
+   "words": 533
+  },
+  {
+   "id": "cin018",
+   "n": 15,
+   "file": "sections/cin018-classic-stars.md",
+   "title": "ستاره‌های کلاسیک؛ سلطانِ قلب‌ها و بانوانِ پرده",
+   "group": "ستاره‌ها و سلبریتی‌ها",
+   "group_key": "g6",
+   "words": 542
+  },
+  {
+   "id": "cin019",
+   "n": 16,
+   "file": "sections/cin019-modern-celebs.md",
+   "title": "سلبریتی‌های امروز؛ ستاره‌های نسل تازه",
+   "group": "ستاره‌ها و سلبریتی‌ها",
+   "group_key": "g6",
+   "words": 541
+  },
+  {
+   "id": "cin020",
+   "n": 17,
+   "file": "sections/cin020-dubbing.md",
+   "title": "دوبله؛ کارخانهٔ جادوی صدا",
+   "group": "صنعت و پشت‌صحنه",
+   "group_key": "g7",
+   "words": 542
+  },
+  {
+   "id": "cin021",
+   "n": 18,
+   "file": "sections/cin021-industry.md",
+   "title": "صنعت سینما؛ سالن‌ها، شهرکِ حاتمی و اقتصادِ پرده",
+   "group": "صنعت و پشت‌صحنه",
+   "group_key": "g7",
+   "words": 472
+  },
+  {
+   "id": "cin022",
+   "n": 19,
+   "file": "sections/cin022-incidents.md",
+   "title": "حوادث و اتفاقات؛ از آتشِ رکس تا پرده‌ای که بالا نرفت",
+   "group": "صنعت و پشت‌صحنه",
+   "group_key": "g7",
+   "words": 567
+  },
+  {
+   "id": "cin023",
+   "n": 20,
+   "file": "sections/cin023-tv-faces.md",
+   "title": "چهره‌های تلویزیون؛ مجریان، مسابقه‌ها و شوی‌ها",
+   "group": "صنعت و پشت‌صحنه",
+   "group_key": "g7",
+   "words": 465
+  },
+  {
+   "id": "cin015",
+   "n": 21,
+   "file": "sections/cin015-gems-cinema.md",
+   "title": "گنجینه‌ی نکات نغز — سینما و تلویزیون",
+   "group": "گنجینه و مرجع",
+   "group_key": "g5",
+   "words": 831
+  },
+  {
+   "id": "cin016",
+   "n": 22,
+   "file": "sections/cin016-reference-tables.md",
+   "title": "جداول مرجع؛ سینما و تلویزیون ایران در یک نگاه",
+   "group": "گنجینه و مرجع",
+   "group_key": "g5",
+   "words": 928
+  },
+  {
+   "id": "cin017",
+   "n": 23,
+   "file": "sections/cin017-sources.md",
+   "title": "منابع و راهنمای راستی‌آزمایی",
+   "group": "گنجینه و مرجع",
+   "group_key": "g5",
+   "words": 673
+  }
+ ]
+}
